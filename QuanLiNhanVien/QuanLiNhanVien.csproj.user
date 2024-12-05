@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Admin\ManageEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Admin\ManageSalary.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Admin\ManageWorkSchedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Admin\NavBarAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Authentication\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Authentication\Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Notification\CreateNotification.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Notification\Notifications.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\User\Attendance.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\User\NavBarUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\User\Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\User\WorkSchedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Admin\ManageEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Admin\ManageSalary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Admin\NavBarAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Authentication\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Authentication\Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Notification\Notifications.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\User\Attendance.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\User\NavBarUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\User\Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\User\WorkSchedule.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

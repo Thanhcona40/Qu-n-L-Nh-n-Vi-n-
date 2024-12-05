@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\managesalary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\managesalary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\workscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\workscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\manageworkschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\manageworkschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\manageworkschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\manageworkschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\managesalary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\managesalary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\manageemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\manageemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\attendance.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\attendance.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\model\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\model\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\attendance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\attendance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\authentication\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\authentication\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\navbaruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\navbaruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\navbaradmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\navbaradmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\navbaruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\navbaruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\manageemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\manageemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\model\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\model\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\admin\\navbaradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\admin\\navbaradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\notification\\createnotification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\notification\\createnotification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\workschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\workschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\notification\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\notification\\notifications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\migrations\\20241201165950_finaldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\migrations\\20241201165950_finaldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\sessionuser\\employeesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\sessionuser\\employeesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\migrations\\20241012161709_createdinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\migrations\\20241012161709_createdinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\migrations\\20241017104023_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\migrations\\20241017104023_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\migrations\\20241017111857_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\migrations\\20241017111857_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\authentication\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\authentication\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\authentication\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\authentication\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAM DUC THANH\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAM DUC THANH\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\user\\workschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\user\\workschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\notification\\notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\notification\\notifications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\authentication\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\authentication\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\view\\notification\\createnotification.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\view\\notification\\createnotification.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|c:\\users\\lam duc thanh\\source\\repos\\quanlinhanvien\\quanlinhanvien\\migrations\\20241011150238_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23935C2B-E45C-4E1B-B6CF-55659168AB3E}|QuanLiNhanVien\\QuanLiNhanVien.csproj|solutionrelative:quanlinhanvien\\migrations\\20241011150238_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageWorkSchedule.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T08:36:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageWorkSchedule.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageWorkSchedule.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwEEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:37:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageSalary.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:36:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageSalary.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageSalary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T09:28:37.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\WorkScheduleService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\WorkScheduleService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\WorkScheduleService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\WorkScheduleService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:30:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\AttendanceService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\AttendanceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:19:49.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:26:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\SalaryService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\SalaryService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\SalaryService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\SalaryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:20:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:07:04.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\LoginService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\LoginService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\LoginService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:37:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:05:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\RegisterService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\RegisterService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\RegisterService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:37:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Salary.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Model\\Salary.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Salary.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Model\\Salary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:41:17.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Attendance.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Attendance.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\Attendance.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Attendance.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\Attendance.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA4wCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:24:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Login.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Authentication\\Login.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Login.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Authentication\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T10:12:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NavBarAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T14:48:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavBarUser.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\NavBarUser.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\NavBarUser.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\NavBarUser.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\NavBarUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T14:50:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavBarUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\NavBarUser.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\NavBarUser.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\NavBarUser.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\NavBarUser.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:19:38.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Attendance.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Attendance.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\Attendance.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Attendance.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\Attendance.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T14:05:18.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\ManageEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T16:01:08.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WorkSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\WorkSchedule.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Model\\WorkSchedule.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\WorkSchedule.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Model\\WorkSchedule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:36:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Attendance.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Model\\Attendance.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Attendance.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Model\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:07:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavBarAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Admin\\NavBarAdmin.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:49:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Service\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Service\\NotificationService.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Service\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:45:04.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateNotification.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T14:04:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Notification.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Model\\Notification.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Notification.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Model\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:31:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Model\\Employee.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:06:25.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Profile.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\Profile.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:27:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Profile.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\Profile.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\Profile.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T15:23:41.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkSchedule.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\WorkSchedule.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\WorkSchedule.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\WorkSchedule.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\WorkSchedule.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T14:46:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Notifications.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\Notifications.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Notification\\Notifications.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\Notifications.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Notification\\Notifications.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T09:19:48.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241201165950_FinalDB.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241201165950_FinalDB.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Migrations\\20241201165950_FinalDB.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241201165950_FinalDB.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Migrations\\20241201165950_FinalDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:59:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeSession.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\SessionUser\\EmployeeSession.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\SessionUser\\EmployeeSession.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\SessionUser\\EmployeeSession.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\SessionUser\\EmployeeSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:19:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Authentication\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Login.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Authentication\\Login.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:12:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Register.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Authentication\\Register.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Register.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Authentication\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T10:12:16.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241012161709_CreatedInitial.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241012161709_CreatedInitial.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Migrations\\20241012161709_CreatedInitial.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241012161709_CreatedInitial.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Migrations\\20241012161709_CreatedInitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:17:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241017111857_Initials.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241017111857_Initials.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Migrations\\20241017111857_Initials.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241017111857_Initials.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Migrations\\20241017111857_Initials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:07:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241017104023_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241017104023_Initial.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Migrations\\20241017104023_Initial.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241017104023_Initial.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Migrations\\20241017104023_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:07:32.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\App.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:26:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\README.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\README.txt",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\README.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\zen.barcode.rendering.framework\\3.1.10729.1\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T10:32:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateNotification.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Notification\\CreateNotification.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:05:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Notifications.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\Notifications.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Notification\\Notifications.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Notification\\Notifications.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Notification\\Notifications.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADgv30AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:35:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WorkSchedule.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\WorkSchedule.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\User\\WorkSchedule.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\User\\WorkSchedule.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\User\\WorkSchedule.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:47:30.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241011150238_InitialCreated.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241011150238_InitialCreated.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\Migrations\\20241011150238_InitialCreated.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\Migrations\\20241011150238_InitialCreated.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\Migrations\\20241011150238_InitialCreated.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:02:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:28:12.505Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\App.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\App.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\App.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T13:25:11.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\View\\Authentication\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\View\\Authentication\\Register.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\View\\Authentication\\Register.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:39:04.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\MainWindow.xaml",
+              "RelativeToolTip": "QuanLiNhanVien\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T02:59:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLiNhanVien\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LAM DUC THANH\\source\\repos\\QuanLiNhanVien\\QuanLiNhanVien\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanLiNhanVien\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAOBvwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:59:52.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="QuanLiNhanVien.View.Admin.ManageEmployee"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLiNhanVien.View.Admin"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid Background="White">
+        <TextBlock Text="Manage Department" FontSize="24" Margin="63,25,0,0"  HorizontalAlignment="Left" 
+            VerticalAlignment="Top"/>
+
+        <DataGrid Name="EmployeeGrid" ItemsSource="{Binding employees}" AutoGenerateColumns="False" Margin="50,86,29,124">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}"/>
+                <DataGridTextColumn Header="UserName" Binding="{Binding Username}"/>
+                <DataGridTextColumn Header="FullName" Binding="{Binding FullName}"/>
+                <DataGridTextColumn Header="Gender" Binding="{Binding Gender}"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}"/>
+                <DataGridTextColumn Header="Phone" Binding="{Binding Phone}"/>
+                <DataGridTextColumn Header="Role" Binding="{Binding Role}"/>
+
+                <DataGridTemplateColumn Header="Delete">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Width="25" Height="25" Click="DeleteEmployee_Click" Tag="{Binding ID}">
+                                <fa:ImageAwesome Icon="Trash" Width="20" Height="20" Foreground="Red"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- TextBox for Department Name Input -->
+
+    </Grid>
+</UserControl>

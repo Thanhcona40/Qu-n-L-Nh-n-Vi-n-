@@ -1,0 +1,129 @@
+﻿<UserControl x:Class="QuanLiNhanVien.View.Admin.ManageWorkSchedule"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLiNhanVien.View.Admin"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="850">
+
+    <Grid Background="White" >
+        <!-- Cấu hình layout chính với 2 cột: cột đầu cho input, cột sau cho lịch -->
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="639*"/>
+            <!-- Cột thứ hai chứa lịch -->
+        </Grid.ColumnDefinitions>
+
+        <Grid Margin="3,13,1,67" RenderTransformOrigin="0.5,0.5" x:Name="ScheduleGrid">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.105"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <!-- Định nghĩa cột: 7 cột tương ứng với 7 ngày -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <!-- Cột đầu tiên cho tên buổi sáng, chiều, tối -->
+                <ColumnDefinition Width="72*" />
+                <ColumnDefinition Width="79*" />
+                <ColumnDefinition Width="78*" />
+                <ColumnDefinition Width="77*" />
+                <ColumnDefinition Width="79*" />
+                <ColumnDefinition Width="81*" />
+                <ColumnDefinition Width="73*" />
+                <ColumnDefinition Width="78*" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Định nghĩa hàng: 4 hàng (1 hàng tiêu đề + 3 hàng cho ca sáng, chiều, tối) -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" MinHeight="123.96"/>
+                <!-- Hàng đầu tiên cho tiêu đề -->
+                <RowDefinition Height="64" />
+                <RowDefinition Height="72" />
+                <RowDefinition Height="59" />
+            </Grid.RowDefinitions>
+
+            <!-- Tiêu đề ngày trong tuần (cột đầu tiên là rỗng, sau đó là ngày) -->
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="" Margin="0,0,0,36" />
+            <!-- Tiêu đề rỗng cho cột đầu tiên -->
+            <TextBlock Grid.Row="0" Grid.Column="2" Text="Monday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,95,0,0" Width="54" Height="22"/>
+            <TextBlock Grid.Row="0" Grid.Column="3" Text="Tuesday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,94,0,0" Width="54" Height="22"/>
+            <TextBlock Grid.Row="0" Grid.Column="4" Text="Wednesday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,95,0,0" Width="77" Height="20"/>
+            <TextBlock Grid.Row="0" Grid.Column="5" Text="Thursday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,95,0,0" Width="66" Height="18"/>
+            <TextBlock Grid.Row="0" Grid.Column="6" Text="Friday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="33,96,0,0" Width="50" Height="19"/>
+            <TextBlock Grid.Row="0" Grid.Column="7" Text="Saturday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,97,0,0" Width="59" Height="20"/>
+            <TextBlock Grid.Row="0" Grid.Column="8" Text="Sunday" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="27,97,0,0" Width="50" Height="18" RenderTransformOrigin="0.122,0.58"/>
+            <!-- Tiếp tục các tiêu đề khác... -->
+            <TextBlock x:Name="Day1" Grid.Column="2" Text="01/10" HorizontalAlignment="Center" Margin="0,83,0,25" Width="30"/>
+            <TextBlock x:Name="Day2" Grid.Column="3" Text="02/10" HorizontalAlignment="Center" Margin="0,83,0,23" Width="31"/>
+            <TextBlock x:Name="Day3" Grid.Column="4" Text="03/10" HorizontalAlignment="Left" Margin="33,83,0,22" Width="31"/>
+            <TextBlock x:Name="Day4" Grid.Column="5" Text="04/10" HorizontalAlignment="Center" Margin="0,83,0,23" Width="31"/>
+            <TextBlock x:Name="Day5" Grid.Column="6" Text="05/10" HorizontalAlignment="Center" Margin="0,83,0,24" Width="30"/>
+            <TextBlock x:Name="Day6" Grid.Column="7" Text="06/10" HorizontalAlignment="Center" Margin="0,86,0,19" Width="31"/>
+            <TextBlock x:Name="Day7" Grid.Column="8" Text="07/10" HorizontalAlignment="Center" Margin="0,85,0,21" Width="31"/>
+
+            <!-- Nội dung grid bên trong -->
+            <!-- Ví dụ buổi sáng -->
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="Morning" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="46"/>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="Afternoon" HorizontalAlignment="Center" VerticalAlignment="Center" Height="14" Width="54"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="Evening" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="42"/>
+            <!-- Tiếp tục nội dung khác -->
+
+            <!-- Thêm các vạch ngăn cách bằng Rectangle -->
+            <!-- Vạch dọc giữa các cột -->
+            <Rectangle Grid.Row="1" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Center"/>
+            <Rectangle Grid.Row="1" Grid.Column="2" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="2,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="2" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="2,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="3" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="3,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="4" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="1,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="5" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="3,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="6" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="3,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="7" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="1,0,0,0"/>
+            <Rectangle Grid.Row="1" Grid.Column="8" Grid.RowSpan="3" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="2,0,0,0"/>
+            <Rectangle Grid.Column="8" Grid.RowSpan="4" Width="2" Fill="Black" HorizontalAlignment="Left" Margin="100,122,0,2"/>
+            <!-- Vạch ngang giữa các hàng -->
+            <Rectangle Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="8" Height="2" Fill="Black" VerticalAlignment="Top" Margin="0,121,4,0"/>
+            <Rectangle Grid.Row="2" Grid.ColumnSpan="8" Height="2" Fill="Black" VerticalAlignment="Top" Margin="0,2,0,0" Grid.Column="1"/>
+            <Rectangle Grid.Row="2" Grid.ColumnSpan="9" Height="2" Fill="Black" VerticalAlignment="Top" Margin="-2,68,8,0"/>
+            <Rectangle Grid.Row="3" Grid.ColumnSpan="8" Height="2" Fill="Black" VerticalAlignment="Top" Margin="2,57,2,0" Grid.Column="1"/>
+            <TextBox Grid.Column="3" Grid.ColumnSpan="4" HorizontalAlignment="Left" Margin="70,8,0,0" TextWrapping="Wrap" Text="SCHEDULE EMPLOYEE" VerticalAlignment="Top" Width="294" FontWeight="Bold" FontSize="25" Height="35" BorderBrush="#FFF4F7FF" />
+        </Grid>
+
+        <Button Width="110" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="11,0,0,319" Click="PreviousWeek_Click">
+            <StackPanel Orientation="Horizontal">
+                <!-- Biểu tượng mũi tên lùi -->
+                <fa:ImageAwesome Icon="ArrowLeft" Width="20" Height="20" VerticalAlignment="Center" />
+                <TextBlock Text="Previous Week" Margin="5,0,0,0" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        <!-- Nút Next Week -->
+        <Button Width="120" Height="40" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,319" Click="NextWeek_Click">
+            <StackPanel Orientation="Horizontal">
+                <!-- Biểu tượng mũi tên tiến -->
+                <TextBlock Text="Next Week" Margin="0,0,5,0" VerticalAlignment="Center" />
+                <fa:ImageAwesome Icon="ArrowRight" Width="20" Height="20" />
+            </StackPanel>
+        </Button>
+
+        <Label Content="Employee ID : " Margin="18,348,736,26"/>
+        <TextBox x:Name="EmployeeIdTextBox" Margin="114,352,656,32"/>
+
+        <Label Content="Shift : " Margin="211,350,575,24" RenderTransformOrigin="0.698,0.724"/>
+        <ComboBox x:Name="ShiftComboBox" Margin="278,354,496,28">
+            <ComboBoxItem Content="Morning"/>
+            <ComboBoxItem Content="Afternoon"/>
+            <ComboBoxItem Content="Evening"/>
+        </ComboBox>
+
+        <Label Content="Date : " Margin="359,350,430,24"/>
+        <DatePicker x:Name="DatePicker" Margin="425,348,306,24"/>
+
+        <Button Content="Add Shift" Click="AddShift_Click" Margin="649,349,87,25"/>
+    </Grid>
+</UserControl>
